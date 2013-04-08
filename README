@@ -1,1 +1,12 @@
-This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository
+## - This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository - ##
+
+********************
+
+Game for two players using Java, 
+its name is "Noughts and Crosses", X and O.
+The player who succeeds in placing 
+three respective marks in a horizontal, 
+vertical, or diagonal row wins the game.
+
+********************
+
